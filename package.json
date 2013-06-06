@@ -1,0 +1,6 @@
+{
+	"name": "app-test",
+	"description": "Steelmesh Test Application",
+	"version": "0.1.0",
+	"private": true
+}
