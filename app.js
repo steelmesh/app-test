@@ -1,6 +1,12 @@
 module.exports = {
     _id: 'test',
-    
+    publics : [{
+		path : '/spec',
+		subDir : '/spec'
+	},{
+		path : '/js',
+		subDir : '/js'
+	}],    
     routes: [
         '/time => test.getTime',
         
