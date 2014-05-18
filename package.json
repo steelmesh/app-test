@@ -1,6 +1,26 @@
 {
-  "name": "app-test",
+  "name": "steelmesh-app-test",
   "description": "Steelmesh Test Application",
   "version": "0.2.0",
-  "private": true
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steelmesh/app-test.git"
+  },
+  "keywords": [
+    "steelmesh",
+    "reference-app"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/steelmesh/app-test/issues"
+  },
+  "homepage": "https://github.com/steelmesh/app-test"
 }

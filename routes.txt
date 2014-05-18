@@ -1,0 +1,3 @@
+/time => test.getTime
+/counter => test.getCount
+/html-test => test.genHTML
